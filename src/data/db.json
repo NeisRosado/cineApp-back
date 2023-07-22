@@ -1,0 +1,67 @@
+{
+    "cinemas": [
+        {
+            "id": 1,
+            "name": "Caribe Plaza",
+            "location": "Calle 29 # 22-108, Cartagena."
+        },
+        {
+            "id": 2,
+            "name": "La Castellana",
+            "location": "Cra. 67 #31-12, Cartagena."
+        },
+        {
+            "id": 3,
+            "name": "Plaza Bocagrande",
+            "location": "Carrera 1 # 12-118, Cartagena."
+        }
+    ],
+    "functions": [
+        {
+            "id": 1,
+            "cinema_id": [
+                1
+            ],
+            "movie_id": [
+                667538,
+                298618,
+                346698,
+                1076487
+            ],
+            "date": "2023-07-30T18:00:00",
+            "tickets_sold": 50,
+            "total_tickets": 100
+        },
+        {
+            "id": 2,
+            "cinema_id": [
+                2
+            ],
+            "movie_id": [
+                455476,
+                678512,
+                569094,
+                614479
+            ],
+            "date": "2023-07-31T20:30:00",
+            "tickets_sold": 30,
+            "total_tickets": 80
+        },
+        {
+            "id": 3,
+            "cinema_id": [
+                3
+            ],
+            "movie_id": [
+                976573,
+                872585,
+                459003,
+                1130818,
+                447277
+            ],
+            "date": "2023-08-01T19:00:00",
+            "tickets_sold": 20,
+            "total_tickets": 120
+        }
+    ]
+}

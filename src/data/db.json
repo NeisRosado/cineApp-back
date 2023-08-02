@@ -98,6 +98,29 @@
             }
           ]
         }
+    ],
+    "Administradores": [
+      {
+        "id": 1,
+        "name": "Neis Rosado",
+        "email": "neis@gmail.com",
+        "password": "123",
+        "image": "https://unsplash.com/es/fotos/5CyvGgDhfGwhttps://unsplash.com/es/fotos/5CyvGgDhfGw"
+      },
+      {
+        "id": 2,
+        "name": "Whitney Stevenson",
+        "email": "whitney@gmail.com",
+        "password": "123",
+        "image": "https://unsplash.com/es/fotos/nj-ZzbSG52o"
+      },
+      {
+        "id": 3,
+        "name": "Ana María",
+        "email": "Ana@gmail.com",
+        "password": "123",
+        "image": "https://unsplash.com/es/fotos/IMKynlJk9jE"
+      }
     ]
   }
   
